@@ -31,6 +31,12 @@ Si tienes alguna pregunta o inquietud, no dudes en ponerte en contacto con nosot
 - [Instagram](https://teramont.net/instagram)
 - [Twitter](https://teramont.net/twitter)
 
+### 🎧 Comunidad de Discord
+
+Únete a nuestra [comunidad de Discord](https://www.teramont.net/discord) para recibir soporte o interactuar con nuestros miembros. Si prefieres, también puedes contactarnos enviando un ticket en nuestro [panel de facturación](https://billing.teramont.net/contact.php).
+
 ---
+
+Visita nuestro sitio web oficial: [Teramont.net](https://www.teramont.net/)
 
 Gracias por considerar **Teramont Host** como tu proveedor de alojamiento. ¡Esperamos poder servirte pronto!
