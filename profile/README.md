@@ -1,4 +1,4 @@
-# Teramont Host ![Teramont Logo](https://cdn.teramont.net/u/oC3myP.png)
+![Teramont Logo](https://cdn.teramont.net/u/oC3myP.png)
 
 Bienvenido al perfil oficial de **Teramont Host** en GitHub. Desde septiembre de 2022, hemos estado ofreciendo servicios de alojamiento de alta calidad y rendimiento.
 
